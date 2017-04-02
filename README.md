@@ -1,2 +1,2 @@
 # blosm
-BLOSM is a p2p learning network built for lifelong and personalized learning at its core.
+BLOSM is a virtual learning environment built for lifelong and personalized learning at its core.
