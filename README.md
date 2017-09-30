@@ -1,5 +1,7 @@
 # Blosm: The Universal Learning Environment
 
+[![Build Status](https://travis-ci.org/blosm-org/blosm-core.svg?branch=develop)](https://travis-ci.org/blosm-org/blosm-core)
+
 Awesome! You made it to our GitHub page :cherry_blossom: :cherry_blossom:
 
 Blosm is designed to be a universal hub of learning that crosses boundaries between institutes and experiences: a virtual environment for lifelong learning.
