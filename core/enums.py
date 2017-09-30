@@ -22,3 +22,12 @@ class ClusterType(Enum):
         SCHOOL = "School"
         UNIVERSITY = "University"
         COMPANY = "Company"
+
+
+class SettingsType(Enum):
+    SECURITY = 1
+    ADDRESS = 2
+
+    class Labels:
+        SECURITY = "Security"
+        ADDRESS = "Address"

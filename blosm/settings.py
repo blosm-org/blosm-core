@@ -25,6 +25,7 @@ SECRET_KEY = "x$ft(q=l58-%80-z*lrdw*7_l7yr5*ud@(h)+b5u4lqd*aq*(w"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+AUTH_USER_MODEL = 'auth.User'
 
 # Application definition
 
@@ -39,6 +40,7 @@ INSTALLED_APPS = [
     # http://whitenoise.evans.io/en/stable/django.html#using-whitenoise-in-development
     'whitenoise.runserver_nostatic',
     'django.contrib.staticfiles',
+    'core'
 ]
 
 MIDDLEWARE = [
